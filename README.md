@@ -1,2 +1,2 @@
-# projeto compet teste
-teste do site
+# PROJETO TESTE
+teste do site de um trabalho escolar
